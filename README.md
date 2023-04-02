@@ -17,6 +17,7 @@ To explore statistical tools which are relevant for the evaluation of economic d
 ## Reading Assignment
 
 In the article by Heathcote _et al_. [1], female labor supply is discussed for its impact on the United States economy between the years of 1967 to 2002. The authors produce a model which was designed to help study and measure the below factors which are associated to women in the workforce.
+Note: this article has been included in the `reading/` directory.
 
 ## The Article’s Themed Questions
 
