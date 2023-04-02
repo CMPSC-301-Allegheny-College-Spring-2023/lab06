@@ -63,13 +63,16 @@ All of these mentioned variables, when used together in a multi-linear regressio
 It is very likely that the conclusions of the article are not generally true all over the world which implies that there is a country for which the conclusions is completely incorrect. Finding a country where a conclusion is correct and, another country where the conclusion is incorrect is an interesting result that you are invited to discuss in your report document of your final deliverables, shown below.
 
 # Part 2: Present your Results
-On the day that this lab is due (see top of this document), each group will give a five to seven minute presentation where the results / highlights of their work will be discussed. 
+
+__Next lab:__On the day that this lab is due (see top of this document), each group will give a five to seven minute presentation where the results / highlights of their work will be discussed. 
 
 ## Important Details
 
+  * For the sake gaining skills in analysis, we will consider all data to be of a _binary_ nature, and not of a _non-binary_ composition. This assumption follows from the design of the original project that gathered the data for Gender Statistics for The World Bank.
+
   * Please remember to include your name on everything you submit for the class. If there are no included names of the members of the group, then the instructor will be unable to award credit for your work. 
 
-  * Your source code must be submitted so that it can be effortlessly run by the instructor. 
+  * Please submit source code that can be run as-is by the instructor during grading. All relevant code is to be un-commented, while all non-code areas in your source code are to be commented so as not to interfere with execution.
 
 ## References
 
@@ -79,7 +82,7 @@ On the day that this lab is due (see top of this document), each group will give
 
   2. The World Bank. Gender statistics., February 2023. This dataset is licensed under Creative Commons Attribution 4.0.
   + [Data download page](https://datacatalog.worldbank.org/search/dataset/0037654/Gender-Statistics)
-
+  + [Online tool](https://databank.worldbank.org/reports.aspx?source=gender-statistics)
 ---
 
 ### Required Deliverables
@@ -96,9 +99,12 @@ For immediate feedback on submissions, we will be using Gator Grade to inform th
 
 The grade that a student receives on this assignment will have the following components.
 
-- **GitHub Actions CI Build Status [up to 15%]:**: For the lab01 repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. This is only checking some baseline writing and commit requirements as well as correct running of the program. An additional reduction will given if the commit log shows a cluster of commits at the end clearly used just to pass this requirement. An addition reduction will also be given if there is no commit during lab work times. All other requirements are evaluated manually.
+- **GitHub Actions CI Build Status [up to 10%]:**: For the lab01 repository associated with this assignment students will receive a checkmark grade if their last before-the-deadline build passes. This is only checking some baseline writing and commit requirements as well as correct running of the program. An additional reduction will given if the commit log shows a cluster of commits at the end clearly used just to pass this requirement. An addition reduction will also be given if there is no commit during lab work times. All other requirements are evaluated manually.
 
-- **Mastery of Technical Writing [up to 85%]:**: Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
+- **Mastery of Technical Writing [up to 60%]:**: Students will also receive a checkmark grade when the responses to the writing questions presented in the `reflection.md` reveal a proficiency of both writing skills and technical knowledge. To receive a checkmark grade, the submitted writing should have correct spelling, grammar, and punctuation in addition to following the rules of Markdown and providing conceptually and technically accurate answers.
+
+- **Presentation [up to 30%]:**
+Students will receive a checkmark grade for presentations. Student must be present to receive credit for presentation.
 
 ## GatorGrade
 
