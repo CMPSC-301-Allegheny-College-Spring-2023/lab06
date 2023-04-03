@@ -19,6 +19,10 @@ To explore statistical tools which are relevant for the evaluation of economic d
 In the article by Heathcote _et al_. [1], female labor supply is discussed for its impact on the United States economy between the years of 1967 to 2002. The authors produce a model which was designed to help study and measure the below factors which are associated to women in the workforce.
 Note: this article has been included in the `reading/` directory.
 
+## Group Work
+
+If you would like to work in Groups then please do! Please keep groups up to __two__ (__2__) members. 
+
 ## The Article’s Themed Questions
 
 It is often likely that the original data from an article is unavailable for public use, or that only a subset of the data has been made available. In this event, we turn to other available data sets in order to study the same types of research questions and themes of the article. Furthermore, using our own data, we are often able to test (and validate) some of the same theories as those of articles which decide not to release their original data sets to the public.
